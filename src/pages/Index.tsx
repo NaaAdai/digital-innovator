@@ -425,8 +425,8 @@ const Index = () => {
                     <p className="text-sm text-muted-foreground">Available for consultations</p>
                   </div>
                 </div>
-                <a href="tel:+1234567890" className="text-primary hover:underline">
-                  +1 (234) 567-890
+                <a href="tel:+233244272766" className="text-primary hover:underline">
+                  +233 24 427 2766
                 </a>
               </Card>
 

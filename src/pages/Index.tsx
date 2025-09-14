@@ -62,19 +62,19 @@ const Index = () => {
     {
       name: 'Sarah Chen',
       role: 'VP Marketing, TechCorp',
-      content: 'Working with them transformed our digital marketing strategy. The AI-powered solutions delivered exceptional results.',
+      content: 'Working with Roberta transformed our digital marketing strategy. Her AI-powered solutions delivered exceptional results that exceeded our expectations.',
       rating: 5,
     },
     {
       name: 'Michael Rodriguez',
       role: 'Founder, StartupX',
-      content: 'Their expertise in both technical implementation and marketing strategy is rare. Highly recommend for any growth-focused project.',
+      content: 'Roberta\'s expertise in both technical implementation and marketing strategy is rare. Highly recommend her for any growth-focused project.',
       rating: 5,
     },
     {
       name: 'Emily Johnson',
       role: 'CTO, InnovateLab',
-      content: 'Outstanding technical skills combined with deep marketing knowledge. Delivered beyond our expectations.',
+      content: 'Outstanding technical skills combined with deep marketing knowledge. Roberta delivered beyond our expectations on every project milestone.',
       rating: 5,
     },
   ];

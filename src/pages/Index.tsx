@@ -90,7 +90,7 @@ const Index = () => {
               animate={{ opacity: 1, x: 0 }}
               className="font-bold text-xl text-gradient"
             >
-              YourName
+              Roberta Naa Adai Squire
             </motion.div>
             <div className="hidden md:flex items-center space-x-8">
               <button onClick={() => scrollToSection('about')} className="text-muted-foreground hover:text-primary transition-colors">About</button>
@@ -410,8 +410,8 @@ const Index = () => {
                     <p className="text-sm text-muted-foreground">Typically respond within 24 hours</p>
                   </div>
                 </div>
-                <a href="mailto:hello@yourname.com" className="text-primary hover:underline">
-                  hello@yourname.com
+                <a href="mailto:rhnas71@gmail.com" className="text-primary hover:underline">
+                  rhnas71@gmail.com
                 </a>
               </Card>
 
@@ -503,7 +503,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-6 lg:px-8 py-12">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="mb-4 md:mb-0">
-              <div className="font-bold text-xl text-gradient mb-2">YourName</div>
+              <div className="font-bold text-xl text-gradient mb-2">Roberta Naa Adai Squire</div>
               <p className="text-muted-foreground">AI-Powered Digital Marketing & Web Development</p>
             </div>
             <div className="flex items-center gap-4">
@@ -513,13 +513,13 @@ const Index = () => {
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 <Github className="h-5 w-5" />
               </a>
-              <a href="mailto:hello@yourname.com" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="mailto:rhnas71@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="h-5 w-5" />
               </a>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-border text-center text-muted-foreground">
-            <p>&copy; {new Date().getFullYear()} Your Name. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Roberta Naa Adai Squire. All rights reserved.</p>
           </div>
         </div>
       </footer>
